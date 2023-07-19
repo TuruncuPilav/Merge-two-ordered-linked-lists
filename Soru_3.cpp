@@ -1,7 +1,7 @@
 ﻿/*
-İki sıralanmış bağlantılı listeyi birleştirin ve yeni bir sıralanmış
-liste olarak döndürün. Yeni liste, ilk iki listenin düğümlerini
-birleştirerek yapılmalıdır.
+	İki sıralanmış bağlantılı listeyi birleştirin ve yeni bir sıralanmış liste döndürün. İlk iki listedeki düğümler birleştirilerek yeni liste oluşturulmalıdır.
+
+	Merge two sorted linked lists and return a new sorted list. The new list must be made by concatenating the nodes of the first two lists.
 */
 
 #include <stdio.h>
